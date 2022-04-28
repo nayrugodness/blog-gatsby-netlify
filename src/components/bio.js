@@ -36,7 +36,7 @@ const Bio = () => {
         className="bio-avatar"
         layout="fixed"
         formats={["auto", "webp", "avif"]}
-        src="../images/profile-pic.png"
+        src="../images/profile-pic.jpg"
         width={50}
         height={50}
         quality={95}
@@ -44,10 +44,11 @@ const Bio = () => {
       />
       {author?.name && (
         <p>
-          Written by <strong>Nayru</strong> {author?.summary || null}
+          Written by <strong>Nayru</strong> Living like an godness, feeling free like a feather, trying to do my best 
+          and learning a lot about the world
           {` `}
-          <a href={`https://twitter.com/${social?.twitter || ``}`}>
-            You should follow them on Twitter
+          <a href='https://twitter.com/NayruRamirez'>
+            You should follow me on Twitter
           </a>
         </p>
       )}
