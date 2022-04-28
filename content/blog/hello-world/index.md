@@ -1,27 +1,25 @@
 ---
-title: Hello World
+title: Freddy Vega "Ser adulto"
 date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+description: "Una mirada existencial desde la experiencia de un magnate de la técnoogía"
 ---
 
-This is my first post on my new fake blog! How exciting!
+¿Qué significa ser adulto?
 
-I'm sure I'll write a lot more interesting things in the future.
-
+Hace 35 años que desperté al flujo de la consciencia, pero no empecé a tomar decisiones con verdadera libertad hasta los 15 años, lo que significa que realmente llevo 20 años de control sobre mi vida.
 Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
 
-![Chinese Salty Egg](./salty_egg.jpg)
+Si llego a vivir 100 años me quedan otros 3 ciclos de 20 años y medio ciclo al final donde espero no necesitar tener control.
 
-You can also write code blocks here!
+Mi sorpresa mas grande es lo positivo que es ser adulto.
+
+La adolescencia es un infierno tan auténtico que la mayoría de la música le apunta a ese mercado. Los "veintes" son tan peligrosos, emocionantes y dolorosos que la televisión se enfoca en esa etapa. Los treintas, en cambio, son un placer. Como un libro.
+
+El problema de ser adulto es que no es algo que se pueda enseñar. Ser adulto no es el dolor de una perdida, ni el esfuerzo, ni el sufrimiento, ni el sacrificio. Es posible que una vida dura en tu juventud te haga mejor adulto, pero no acelera tu adultez.
+
+
+Lo único que te hace adulto es el tiempo.
 
 ```js
 const saltyDuckEgg = "chinese preserved food product"
