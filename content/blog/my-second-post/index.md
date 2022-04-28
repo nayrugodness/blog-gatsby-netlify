@@ -1,13 +1,47 @@
 ---
-title: My Second Post!
+title: La maleta de viajes de tus memorias!
 date: "2015-05-06T23:46:37.121Z"
 ---
 
-Wow! I love blogging so much already.
+¿Recuerdas lo que comiste ayer?
+¿Hace un mes? ¿Un año?
 
-Did you know that "despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich."?
-([Wikipedia Link](https://en.wikipedia.org/wiki/Salted_duck_egg))
+¿Recuerdas tu primer beso? Seguro que sí.
+¿Recuerdas tu último beso? Quizás.
+¿Recuerdas cada beso? No.
 
-Yeah, I didn't either.
+Un día, al igual que yo, vas a morir. Y está bien. No exististe por millones de años, así que todo estará bien después de que dejes de existir por trillones de años.
+
+En tus últimos momentos, lo único valioso en tu mente serán tus recuerdos. Tus memorias.
+
+Pero no podemos llevarnos muchas al final.
+
+Es como una maleta de viaje. La chiquita. No cabe más que seis días de ropa. Y ya. Te toca elegir qué memorias metes en la maleta, porque al final del viaje no vas a llegar con todo.
+
+Vas a olvidar la ropa que tienes hoy puesta.
+Y este post.
+Y a la mayoría de tus compañeros de trabajo.
+A amigos y a amores.
+
+¿Cómo eliges lo qué llevas en la maleta?
+Creando memorias.
+
+¿Cómo creas memorias?
+Tomando riesgos.
+
+Robando ese beso. Lanzando esa idea. Escribiendo ese artículo. Mostrando vulnerabilidad. Saliendo de nuestra zona de confort. Creciendo. Intentando cosas distintas. Rechazando la rutina y la normalidad. Siendo inconformes. Creando. Probando.
+
+El miedo es una invitación. Y cada juego que jugamos es opcional.
+
+¿Y qué pasa con el riesgo real?
+¿Qué pasa si el dolor daña?
+
+El dolor nos enseña a cuidarnos. Las cicatrices nos recuerdan qué no hacer y sus consecuencias. Así evitamos resbalarnos y caernos. Aprendemos.
+
+Pero el tiempo pasa, las cicatrices sanan y se vuelven memorias.
+
+Cuando yo envejezca, quiero estar lleno de cicatrices como tatuajes. Evidencia de lo que viví. Me divertí. O quizás no. Pero experimenté.
+
+Que desperdicio llegar al final con un cuerpo humano impecable, intacto, sagrado y lleno de arrepentimiento. Mientras no le hagas daño a nadie, es mejor llegar con cicatrices. E historias.
+
+Deja de leer y sal a jugar.
