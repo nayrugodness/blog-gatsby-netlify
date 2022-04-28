@@ -288,8 +288,7 @@ a:focus {
 
 .bio {
   display: flex;
-  height: 3rem;
-  padding: 1rem;
+  padding: 2rem;
   background-color: rgb(240, 164, 177);
 }
 
